@@ -1,4 +1,3 @@
-
 # Q1 ----------------------------------------------------------------------
 
 
@@ -66,3 +65,4 @@ MAD_newdata_Mo <- mad(newdata$moments.Nm)
 
 
 #I did not understand this question :(
+
